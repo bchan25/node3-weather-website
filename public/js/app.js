@@ -1,7 +1,3 @@
-console.log("Client side JS loaded")
-
-
-
 //Fetch is a Browser (Client only) method and not NODE
 
 
